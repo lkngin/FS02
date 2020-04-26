@@ -1,6 +1,6 @@
 print("Hello World")
 print("Hello Malaysia")
 print("Hello Singapore")
-print("Hello Indonedia")
+print("Hello Indonesia")
 print("Bottom")
 print("im here!")
